@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
-
+onchain_bio_addr = "0x60844efedb533ff6fc33f81728abb34ea65ed5e070a1068a2db5ee94bb57b52f"
 [dev-addresses]
 
 [dependencies.AptosFramework]
